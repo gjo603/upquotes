@@ -10,15 +10,20 @@ body {
     width: 30%;
     border-radius: 5px;
     padding: 30px;
-    margin-top: 5%;
+    margin-top: 10%;
     color: white;
     font-family: sans-serif;
+
 }
 
-.display h4 {
-    text-align:end; 
-    padding-right: 20px;
+.quote {
+    text-align: center;
+    padding-bottom: 20px;
+
+
 }
+
+
 .display {
     width: 100%;
     
@@ -26,8 +31,6 @@ body {
 
 .genbutton {
     text-align: center;
-    
-
 }
 /* button */
 
@@ -39,6 +42,10 @@ button {
     color: grey;
     font-weight: 600;
     border-radius: 3px;
+    outline: none;
+}
+.width {
+    height: 100%;
 }
 
 button:hover {
@@ -52,6 +59,7 @@ button:active {
     outline: 0;
     border: none;
     -moz-outline-style: none;
+    text-decoration: none;
 }
 /* background */
 
