@@ -14,6 +14,8 @@ var quotes =
 'You have not failed until you quit trying - Pres. Gordon B. Hinckley',
 'If life gets too hard to stand - Kneel.  - Pres. Gordon B. Hinckley',
 'Even in our trials we can experience Joy and Peace!! - Robert D. Hales',
+'No matter our circumstances - no matter our challenges or trials - there is something each day to embrace and cherish.  There is something in each day that can bring gratitude and joy if only we will see and appreciate it.  - Dieter F. Uchtdorf',
+
 
 
 ]
