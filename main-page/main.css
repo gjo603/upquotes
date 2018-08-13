@@ -23,6 +23,25 @@ body {
 
 }
 
+.submit {
+    text-align: center;
+    padding-bottom: 20px; 
+    padding-top: 15px;
+    
+
+
+}
+
+a {
+    text-decoration: none;
+    color: white;
+
+}
+
+a:hover {
+    color: rgb(216, 216, 216);
+}
+
 
 .display {
     width: 100%;
