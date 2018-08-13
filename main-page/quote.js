@@ -4,8 +4,8 @@
 var quotes = 
 [
     '"The way to get started is to quit talking and begin doing." -Walt Disney',
-    '2',
-    '1',
+    'jhkjjlk',
+    'bee good -m jones',
     '5',
     '2',
     '3',
