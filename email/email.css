@@ -1,0 +1,33 @@
+::placeholder {
+    font-family: sans-serif;
+    font-weight: 600;
+}
+
+body {
+    background-image: url(../sky.JPG);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center; 
+
+    display: flex;
+    flex-direction: column;
+}
+
+.textbox {
+    margin: 10px;
+    padding: 3px;
+
+}
+.content {
+    
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+    border-radius: 5px;
+    padding: 30px;
+    margin-top: 10%;
+    color: white;
+    font-family: sans-serif;
+
+}

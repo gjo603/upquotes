@@ -4,21 +4,25 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="stylesheet" href="email.css">
     <title>Document</title>
 </head>
 <body>
-    <!-- <form enctype="text/plain" method="get" method="post"action="mailto:gavtjones@gmail.com">
-        Your First Name: <input type="text" name="first_name"><br>
-        Your Last Name: <input type="text" name="last_name"><br>
-        Comments: <textarea rows="5" cols="30" name="comments"></textarea>
-        <input type="submit" value="Send">
-        </form> -->
+    <div class="container">
+        <form action="http://formspree.io/gavtjones@gmail.com" method="post" target="_blank">
+            <input type="text" class="textbox" name="first_name" placeholder="First Name"><br>
+            <input type="text" class="textbox" name="last_name" placeholder="Last Name"><br>
+            <input type="email" class="textbox" name="_replyto" placeholder="Your Email"><br>
+            <textarea rows="5" cols="30" class="quote" name="quote" placeholder="Your Quote" ></textarea>
+            <input type="submit" value="Send" class="send" target="_blank">
+        </form>
+    </div>
 
-        <form action="http://formspree.io/gavtjones@gmail.com" method="post">
+        <!-- <form action="http://formspree.io/gavtjones@gmail.com" method="post">
             <input type="text" name="Name" placeholder="Name">
             <input type="email" name="_replyto" placeholder="Your Email">
             <input type="text" name="Quote" placeholder="Quote">
-            <input type="submit" value="Send">
+            <input type="submit" value="Send"> -->
 
             
         </form>
