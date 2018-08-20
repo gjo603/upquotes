@@ -19,6 +19,7 @@ var quotes =
 'We learn and grow and become stronger as we face and survive the trials through which we must pass.  - President Thomas S. Monson',
 'The Savior is the source of true peace.  Even with the trials of life - Because of the Savior’s atonement and His grace - righteous living will be rewarded with personal peace.',
 'When sore Trials come upon us - it is time to deepen our faith in God - to work hard - and to serve others.  Then He will heal our broken hearts.  He will bestow upon us personal peace and comfort.  - President Russell M. Nelson',
+'The Devil flatters us that we are very righteous, while we are feeding on the faults of others. If you would have God have mercy on you, have mercy on one another. -Joseph Smith Submitted by Toni Lacy',
 
 
 
@@ -29,4 +30,7 @@ function newQuote() {
     var randomNumber = Math.floor(Math.random() * (quotes.length));
     document.getElementById('quoteDisplay').innerHTML = quotes[randomNumber];
 }
+
+
+
 
