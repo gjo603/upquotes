@@ -17,6 +17,7 @@ body {
 .textbox {
     margin: 10px;
     padding: 3px;
+    width: 250px;
 
 }
 .content {
@@ -31,3 +32,46 @@ body {
     font-family: sans-serif;
 
 }
+ 
+.quote {
+    width: 649px;
+    height: 167px;
+    margin: 10px;
+
+
+}
+
+.send {
+    border: none;
+    color: white;
+    font-weight: 500;
+    background: none;
+    font-size: 1.2em;
+
+    
+}
+
+.send:hover {
+    cursor: pointer;
+    font-size: 1.3em;
+
+
+
+}
+
+.homelink {
+    text-decoration: none;
+    color: white;
+    font-family: sans-serif;
+    font-weight: 600;
+    margin-left: 5px;
+    margin-top: 10px;
+    padding: 2px;
+    font-size: 1.2em;
+    width: 400px;
+}
+
+.homelink:hover {
+    border-bottom: 2px solid white;
+}
+
