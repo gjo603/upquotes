@@ -78,6 +78,8 @@ button:hover {
     background: #c2c2c271;
     color:rgb(255, 255, 255);
     cursor: pointer;
+    transition:  300ms;
+    
 
 }
 
@@ -86,6 +88,7 @@ button:active {
     border: none;
     -moz-outline-style: none;
     text-decoration: none;
+    transition: 300ms;
 }
 /* background */
 
