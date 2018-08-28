@@ -3,7 +3,7 @@
 
 var quotes = 
 [
-    'The way to get started is to quit talking and begin doing." -Walt Disney', 
+    'The way to get started is to quit talking and begin doing. -Walt Disney', 
    'Your Faith can move mountains and your doubt can create them',
    'Faith is like wifi - It’s invisible but it has the power to connect you to what you need.',
    'Worry ends when Faith in God begins',
