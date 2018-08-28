@@ -86,7 +86,7 @@ button:hover {
 button:active {
     outline: 0;
     border: none;
-    -moz-outline-style: none;
+    outline-style: none;
     text-decoration: none;
     transition: 300ms;
 }
